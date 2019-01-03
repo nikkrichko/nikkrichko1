@@ -1,9 +1,21 @@
-This repository will tell you about myself.
+#This repository will tell you about myself.
 
-My CV
+## Krychko Mykyta (official) 
 
-My projects
+### Krichko Nikita (native)
 
-My blog
+email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
-Links to my video
+[facebook](https://www.facebook.com/nik.krichko)
+
+[linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
+
+
+* My CV
+
+* My projects
+
+
+* My blog
+
+* Links to my video
