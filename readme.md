@@ -2,9 +2,9 @@
 ### Krichko Nikita (native)
 email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
-*[Facebook](https://www.facebook.com/nik.krichko)
+* [Facebook](https://www.facebook.com/nik.krichko)
 
-*[Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
+* [Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
 
 * My CV
