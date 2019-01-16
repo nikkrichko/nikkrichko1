@@ -1,14 +1,8 @@
-#This repository will tell you about myself.
-
 ## Krychko Mykyta (official) 
-
 ### Krichko Nikita (native)
-
 email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
-
-[Facebook](https://www.facebook.com/nik.krichko)
-
-[Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
+*[Facebook](https://www.facebook.com/nik.krichko)
+*[Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
 
 * My CV
