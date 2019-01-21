@@ -9,6 +9,19 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * My CV
 
+* Education
+	* 2010 - National Academy of security service of Ukraine
+		* specialization: System and technology of protection restricted access information
+	* 2012 - Institute of postgraduate education of Taras Shevchenko National University of Kyiv
+		* specialization: Psychology
+	* 2015 - «STRATOPLAN» Management School
+		* specialization: Project management 
+	* 2017 - John Hopkins University
+		* Data Science
+		* Executive Data Science
+	* 2018 - Moscow Institute of Physics and Technology
+		* Machine learning and data analysis
+
 * My projects
 	* Performance testing projects description
 	* Data science projectsы
