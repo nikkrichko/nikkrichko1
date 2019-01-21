@@ -30,7 +30,7 @@ years | univerity | specialization
 
 ### My projects
 
-	#### Performance testing projects
+#### Performance testing projects
 	
 		* Anomaly detection in performance testing (static)
 		* Anomaly detection for monitoring system (dynamic via Plumber)
@@ -43,20 +43,22 @@ years | univerity | specialization
 		* Invent performane testing pipeline in a company
 		* Structurated performance methodology in a company
 		
-	#### Data science projects
+#### Data science projects
 	
 		* NLP: QA-fest review analysis
 		* Regression: Predict performance behaviaor on high load based on low load.
 		* Forecasting: Create expected requirements for performance testing based on historical vales
 		* Other: detect anomalies in time series for bug ands route cause detection on performance testing
 		
-	#### Methodology projects
+#### Methodology projects
 	
 		* Develop methodology of performance testing managment: "From chaos to application performance managment"
 		* Develop mothodology for faster gathering performance testing results using machine learning
 		* Develop strategy (alorythm) about getting information about changes in application performance in one performance run
 		* Develop approach for predicting expected result without defined requirements (based on historical results and ARIMA forecasting) 
-	* Educational projects
+		
+#### Educational projects
+
 		* Educate students in National aviational university for performance testing
 		* Mentoring and teaching junior performance test engineers
 	
