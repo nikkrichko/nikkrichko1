@@ -9,7 +9,7 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * My CV
 	* 2016 - till now - **Itera**			: Performance Test architect / Data scientiest (prev. Senior Performance Engineer)
-	* 2016            - **Luxoft**			: Senior performance test engineer
+	* 2016 - 2016     - **Luxoft**			: Senior performance test engineer
 	* 2014 - 2016     - **Terrasoft**		: System analyst / Performance test Engineer / QA Engineer
 	* 2013 - 2014     - **SRS**			: QA engineer
 	* 2011 - 2013     - **Apeal court**		: System administratod / Deputy IT department
