@@ -23,13 +23,15 @@ years | univerity | specialization
 ------|---------|-------
 2018 | Moscow Institute of Physics and Technology | Machine learning and data analysis
 2017 | John Hopkins University |  Data Science /  Executive Data Science
-2015 | «STRATOPLAN» Management School | specialization: Project management 
-2012 | Institute of postgraduate education of Taras Shevchenko National University of Kyiv | specialization: Psychology
-2010 | National Academy of security service of Ukraine | specialization: System and technology of protection restricted access information
+2015 | «STRATOPLAN» Management School |  Project management 
+2012 | Institute of postgraduate education of Taras Shevchenko National University of Kyiv |  Psychology
+2010 | National Academy of security service of Ukraine |  System and technology of protection restricted access information
 	
 
 ### My projects
+
 	#### Performance testing projects
+	
 		* Anomaly detection in performance testing (static)
 		* Anomaly detection for monitoring system (dynamic via Plumber)
 		* Add machine learning in performance testing
@@ -40,12 +42,16 @@ years | univerity | specialization
 		* Create CI performance framework in a company
 		* Invent performane testing pipeline in a company
 		* Structurated performance methodology in a company
+		
 	#### Data science projects
+	
 		* NLP: QA-fest review analysis
 		* Regression: Predict performance behaviaor on high load based on low load.
 		* Forecasting: Create expected requirements for performance testing based on historical vales
 		* Other: detect anomalies in time series for bug ands route cause detection on performance testing
+		
 	#### Methodology projects
+	
 		* Develop methodology of performance testing managment: "From chaos to application performance managment"
 		* Develop mothodology for faster gathering performance testing results using machine learning
 		* Develop strategy (alorythm) about getting information about changes in application performance in one performance run
