@@ -6,28 +6,6 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
-
-### My CV
-years | company | roles
-------|---------|-------
-2016 - till now | **Itera**			| Performance Test architect / Data scientiest (prev. Senior Performance Engineer)
-2016 - 2016     | **Luxoft**			| Senior performance test engineer
-2014 - 2016     | **Terrasoft**		| System analyst / Performance test Engineer / QA Engineer
-2013 - 2014     | **SRS**			| QA engineer
-2011 - 2013     | **Apeal court**		| System administratod / Deputy IT department
-2009 - 2010     | **SDICSED**			| System administrator
-2008 - 2009     | **Geochemincal insitute**	| System administrator
-
-### Education
-years | univerity | specialization
-------|---------|-------
-2018 | Moscow Institute of Physics and Technology | Machine learning and data analysis
-2017 | John Hopkins University |  Data Science /  Executive Data Science
-2015 | «STRATOPLAN» Management School |  Project management 
-2012 | Institute of postgraduate education of Taras Shevchenko National University of Kyiv |  Psychology
-2010 | National Academy of security service of Ukraine |  System and technology of protection restricted access information
-	
-
 ### My projects
 
 #### Performance testing projects
@@ -61,6 +39,29 @@ years | univerity | specialization
 
 * Educate students in National aviational university for performance testing
 * Mentoring and teaching junior performance test engineers
+
+
+### My CV
+years | company | roles
+------|---------|-------
+2016 - till now | **Itera**			| Performance Test architect / Data scientiest (prev. Senior Performance Engineer)
+2016 - 2016     | **Luxoft**			| Senior performance test engineer
+2014 - 2016     | **Terrasoft**		| System analyst / Performance test Engineer / QA Engineer
+2013 - 2014     | **SRS**			| QA engineer
+2011 - 2013     | **Apeal court**		| System administratod / Deputy IT department
+2009 - 2010     | **SDICSED**			| System administrator
+2008 - 2009     | **Geochemincal insitute**	| System administrator
+
+### Education
+years | univerity | specialization
+------|---------|-------
+2018 | Moscow Institute of Physics and Technology | Machine learning and data analysis
+2017 | John Hopkins University |  Data Science /  Executive Data Science
+2015 | «STRATOPLAN» Management School |  Project management 
+2012 | Institute of postgraduate education of Taras Shevchenko National University of Kyiv |  Psychology
+2010 | National Academy of security service of Ukraine |  System and technology of protection restricted access information
+	
+
 	
 
 ### My blog (maybe in future)
