@@ -9,35 +9,35 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 ### My projects
 
 #### Performance testing projects
-	
+    
 * Anomaly detection in performance testing (static)
 * Anomaly detection for monitoring system (dynamic via Plumber)
 * Add machine learning in performance testing
 * Add automatic results analysis of performance testing
-* Generate recomendation system for performance testing engineer for faster gathering of performance testing results
-* Create interactive shiny-dashboard for performancetesting results
-* Create robust regression model for faster gathering of performance testing results
+* Generate recommendation system for performance testing engineer for a faster gathering of performance testing results
+* Create interactive shiny-dashboard for performance testing results
+* Create a robust regression model for faster gathering of performance testing results
 * Create CI performance framework in a company
-* Invent performane testing pipeline in a company
-* Structurated performance methodology in a company
-		
+* Invent performance testing pipeline in a company
+* Structured performance methodology in a company
+        
 #### Data science projects
-	
+    
 * NLP: QA-fest review analysis
-* Regression: Predict performance behaviaor on high load based on low load.
+* Regression: Predict performance behavior on high load based on low load.
 * Forecasting: Create expected requirements for performance testing based on historical vales
-* Other: detect anomalies in time series for bug ands route cause detection on performance testing
-		
+* Other: detect anomalies in time series for bug and route cause detection on performance testing
+        
 #### Methodology projects
-	
-* Develop methodology of performance testing managment: "From chaos to application performance managment"
-* Develop mothodology for faster gathering performance testing results using machine learning
-* Develop strategy (alorythm) about getting information about changes in application performance in one performance run
-* Develop approach for predicting expected result without defined requirements (based on historical results and ARIMA forecasting) 
-		
+    
+* Develop methodology of performance testing management: "From chaos to application performance management"
+* Develop a methodology for faster gathering performance testing results using machine learning
+* Develop strategy (algorithm) about getting information about changes in application performance in one performance run
+* Develop an approach for predicting expected result without defined requirements (based on historical results and ARIMA forecasting) 
+        
 #### Educational projects
 
-* Educate students in National aviational university for performance testing
+* Educate students in National aviation university for performance testing
 * Mentoring and teaching junior performance test engineers
 
 
