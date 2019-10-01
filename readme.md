@@ -6,7 +6,7 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
-I am an expert in stress testing.
+I am an expert in performance testing.
 
 I create performance tests and build processes for finding performance issues. I help companies to understand why their programs work slowly. I teach people to look for and prevent such kind of issues.
 
