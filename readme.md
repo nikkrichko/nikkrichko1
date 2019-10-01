@@ -6,6 +6,27 @@ email: [nik.krichko@gmail.com](nik.krichko@gmail.com)
 
 * [Linkedin](https://www.linkedin.com/in/nikita-krychko-9bb14853/)
 
+I am an expert in stress testing.
+
+I create performance tests and build processes for finding performance issues. I help companies to understand why their programs work slowly. I teach people to look for and prevent such kind of issues.
+
+I am looking for problems not only in programs but also in processes. I define the requirements, and I create test scripts based on those requirements for various test types and load profiles. I setup a pipeline of scenarios in a continuous integration system and setup a system for automatic analysis and anomaly search using machine learning. I keep human interaction with tests to a minimum and provide developers with the fastest possible feedback after their commits.
+
+
+Companies contact me when they need to understand:
+- why the program is slow ;
+- when it is necessary to build a process for detecting performance issues from scratch;
+- when it needs to teach the system automatically find issues during the development process.
+
+
+I can work with many performances, monitoring, and profiling tools. I can find errors in desktop applications, web applications, and databases. I can independently analyze large volumes of logs and find hidden correlations between several data sources. I can use machine learning to find problems of balancing, memory leaks, and predict future resource consumption by servers.
+
+
+I’m not a wizard, and I can’t find errors and bottlenecks just by looking at the application. Load testing is scrupulous research that required long preparation and gives accurate results. However, we can always find a compromise by sacrificing accuracy for the reason of speed (I prefer not to do so).
+
+My mission is to create one button - which can say why the application is slow
+
+
 ### My projects
 
 #### Performance testing projects
