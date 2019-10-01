@@ -89,5 +89,6 @@ years | univerity | specialization
 
 ### Links to my video
 
+* [QA FEST - How to test app which is using machine learning](https://www.youtube.com/watch?v=BiinK18euhU&list=PLuOBDBq7MW70q24thB9tidD2-2Tysf8FS&index=24&t=0s) - (RUS) Как тестровать приложения которые используют машинное обучение
 * [QA Fest - How save time on performance testing report analysis](https://www.youtube.com/watch?v=izLP7f6LEjI) - (RUS) Как сэкономить время на анализе отчетов о нагрузочном тестировании
 * [QA Fest - ML usage methodology in performance testing](https://www.youtube.com/watch?v=qQDZfSClO0o&t=0s&index=24&list=PLuOBDBq7MW73zWBY2FX2SQXyOCJWFDq2U) - (RUS) Методология использоания машинного обучения в нагрузочном тестировании
