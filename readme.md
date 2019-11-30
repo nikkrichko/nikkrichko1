@@ -27,9 +27,9 @@ I’m not a wizard, and I can’t find errors and bottlenecks just by looking at
 My mission is to create one button - which can say why the application is slow
 
 
-### My projects
+### MY PROJECTS
 
-#### Performance testing projects
+#### PERFORMANCE TESTING PROJECTS
     
 * Performance testing of the neural network's services
 * Anomaly detection in performance testing (static)
@@ -43,14 +43,14 @@ My mission is to create one button - which can say why the application is slow
 * Invent performance testing pipeline in a company
 * Structured performance methodology in a company
         
-#### Data science projects
+#### DATA SCIENCE PROJECTS
     
 * NLP: QA-fest review analysis
 * Regression: Predict performance behavior on high load based on low load.
 * Forecasting: Create expected requirements for performance testing based on historical vales
 * Other: detect anomalies in time series for bug and route cause detection on performance testing
         
-#### Methodology projects
+#### METHODOLOGY PROJECTS
     
 * Develop methodology for performance testing and benchmarking services with neural network on backend
 * Develop methodology of performance testing management: "From chaos to application performance management"
@@ -58,13 +58,13 @@ My mission is to create one button - which can say why the application is slow
 * Develop strategy (algorithm) about getting information about changes in application performance in one performance run
 * Develop an approach for predicting expected result without defined requirements (based on historical results and ARIMA forecasting) 
         
-#### Educational projects
+#### EDUCATIONAL PROJECTS
 
 * Educate students in National aviation university for performance testing
 * Mentoring and teaching junior performance test engineers
 
 
-### My CV
+### WORKING EXPIRIENCE
 years | company | roles
 ------|---------|-------
 2016 - till now | **Itera**			| Performance Test architect / Data scientiest (prev. Senior Performance Engineer)
@@ -75,7 +75,7 @@ years | company | roles
 2009 - 2010     | **SDICSED**			| System administrator
 2008 - 2009     | **Geochemincal insitute**	| System administrator
 
-### Education
+### EDUCATION
 years | univerity | specialization
 ------|---------|-------
 2018 | Moscow Institute of Physics and Technology | Machine learning and data analysis
@@ -89,7 +89,7 @@ years | univerity | specialization
 
 ### My blog (maybe in future)
 
-### Links to my video
+### VIDEO (from conferences)
 
 * [QA FEST - How to test app which is using machine learning](https://www.youtube.com/watch?v=BiinK18euhU&list=PLuOBDBq7MW70q24thB9tidD2-2Tysf8FS&index=24&t=0s) - (RUS) Как тестровать приложения которые используют машинное обучение
 * [QA Fest - How save time on performance testing report analysis](https://www.youtube.com/watch?v=izLP7f6LEjI) - (RUS) Как сэкономить время на анализе отчетов о нагрузочном тестировании
