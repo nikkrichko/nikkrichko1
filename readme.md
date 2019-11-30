@@ -76,7 +76,7 @@ years | company | roles
 2008 - 2009     | **Geochemincal insitute**	| System administrator
 
 ### EDUCATION
-years | univerity | specialization
+years | university | specialization
 ------|---------|-------
 2018 | Moscow Institute of Physics and Technology | Machine learning and data analysis
 2017 | John Hopkins University |  Data Science /  Executive Data Science
