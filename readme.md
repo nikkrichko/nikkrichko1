@@ -31,6 +31,7 @@ My mission is to create one button - which can say why the application is slow
 
 #### Performance testing projects
     
+* Performance testing of the neural network's services
 * Anomaly detection in performance testing (static)
 * Anomaly detection for monitoring system (dynamic via Plumber)
 * Add machine learning in performance testing
@@ -51,6 +52,7 @@ My mission is to create one button - which can say why the application is slow
         
 #### Methodology projects
     
+* Develop methodology for performance testing and benchmarking services with neural network on backend
 * Develop methodology of performance testing management: "From chaos to application performance management"
 * Develop a methodology for faster gathering performance testing results using machine learning
 * Develop strategy (algorithm) about getting information about changes in application performance in one performance run
