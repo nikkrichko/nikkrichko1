@@ -64,7 +64,7 @@ My mission is to create one button - which can say why the application is slow
 * Mentoring and teaching junior performance test engineers
 
 
-### WORKING EXPIRIENCE
+### WORKING EXPERIENCE
 years | company | roles
 ------|---------|-------
 2016 - till now | **Itera**			| Performance Test architect / Data scientiest (prev. Senior Performance Engineer)
