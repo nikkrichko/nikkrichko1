@@ -63,6 +63,20 @@ My mission is to create one button - which can say why the application is slow
 * Educate students in National aviation university for performance testing
 * Mentoring and teaching junior performance test engineers
 
+### Skills
+* programming languages: 
+	**Python [x] [x] [x] [x] [ ] 
+	**R  [x] [x] [x] [x] [ ] 
+	**JAVA  [x] [x] [x] [ ] [ ] 
+	**groovy  [x] [x] [x] [ ] [ ] 
+	**bash, powerShell  [x] [x] [x] [ ] [ ] 
+* frameworks: Selenium webDriver, selenoid, zeep, requests, tidyverse, shiny, Scikit-learn, pandas, pytest, testNg, Junit
+* testing tools: Load runner, jmeter, Gatling, tsung, ReadyAPI/SoapUI, postman
+* DB: mysql, postreSql MSsql, Oracle SQL, 
+* Virtulization: vmware esxi
+* CI/CD tools: teamcity, jenkins, hudson, azure devops, docker
+* monitoring: Dynatrace, appDynamics, newRelic, DataDog
+
 
 ### WORKING EXPERIENCE
 years | company | roles
