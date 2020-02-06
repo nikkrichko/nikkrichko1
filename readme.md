@@ -65,11 +65,11 @@ My mission is to create one button - which can say why the application is slow
 
 ### Skills
 * programming languages: 
-	- Python [x] [x] [x] [x] [ ] 
-	- R  [x] [x] [x] [x] [ ] 
-	- JAVA  [x] [x] [x] [ ] [ ] 
-	- groovy  [x] [x] [x] [ ] [ ] 
-	- bash, powerShell  [x] [x] [x] [ ] [ ] 
+	- Python :black_circle::black_circle::black_circle::black_circle::white_circle:
+	- R  :black_circle::black_circle::black_circle::black_circle::black_circle:
+	- JAVA  :black_circle::black_circle::black_circle::white_circle::white_circle:
+	- groovy  :black_circle::black_circle::black_circle::white_circle::white_circle:
+	- bash, powerShell  :black_circle::black_circle::black_circle::white_circle::white_circle:
 * frameworks: Selenium webDriver, selenoid, zeep, requests, tidyverse, shiny, Scikit-learn, pandas, pytest, testNg, Junit
 * testing tools: Load runner, jmeter, Gatling, tsung, ReadyAPI/SoapUI, postman
 * DB: mysql, postreSql MSsql, Oracle SQL, 
