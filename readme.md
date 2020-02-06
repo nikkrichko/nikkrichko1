@@ -64,7 +64,8 @@ My mission is to create one button - which can say why the application is slow
 * Mentoring and teaching junior performance test engineers
 
 ### Skills
-* programming languages: 
+programming languages | level 
+------|-------
 R | :black_circle::black_circle::black_circle::black_circle::black_circle: |
 Python | :black_circle::black_circle::black_circle::black_circle::white_circle: |
 JAVA | :black_circle::black_circle::black_circle::white_circle::white_circle: |
